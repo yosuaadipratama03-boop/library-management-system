@@ -70,7 +70,7 @@ npm start
 
 ## 🎥 Video Demo
 
-🎬 **Link Video YouTube:** [Akan ditambahkan]
+🎬 **Link Video YouTube:** [https://youtu.be/di1oWY2ju_w]
 
 ## 👨‍💻 Developer
 
